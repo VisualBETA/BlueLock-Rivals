@@ -7,6 +7,8 @@ return {
     {'THANKYOU', false},
     {'20KLIKESPT2', false},
     {'YUKIMIYA', false},
-    {'60KFOLLOWERS', true},
-    {'30KLIKES', true}
+    {'60KFOLLOWERS', false},
+    {'30KLIKES', false},
+    {'MONST3R', true},
+    {'DRAGON', true}
 }
