@@ -9,6 +9,8 @@ return {
     {'YUKIMIYA', false},
     {'60KFOLLOWERS', false},
     {'30KLIKES', false},
-    {'MONST3R', true},
-    {'DRAGON', true}
+    {'MONST3R', false},
+    {'DRAGON', false},
+    {'50KTATLIS', true},
+    {'THX30KLIKES ', true}
 }
