@@ -11,6 +11,8 @@ return {
     {'30KLIKES', false},
     {'MONST3R', false},
     {'DRAGON', false},
-    {'50KTATLIS', true},
-    {'THX30KLIKES ', true}
+    {'50KTATLIS', false},
+    {'THX30KLIKES', false},
+    {'THX40KAGAIN', true},
+    {'KARASU', true}
 }
