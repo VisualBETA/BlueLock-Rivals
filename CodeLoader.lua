@@ -13,6 +13,7 @@ return {
     {'DRAGON', false},
     {'50KTATLIS', false},
     {'THX30KLIKES', false},
-    {'THX40KAGAIN', true},
-    {'KARASU', true}
+    {'THX40KAGAIN', false},
+    {'KARASU', false},
+    {'200KSUB', true}
 }
