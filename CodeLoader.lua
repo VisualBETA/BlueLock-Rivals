@@ -16,5 +16,6 @@ return {
     {'THX40KAGAIN', false},
     {'KARASU', false},
     {'200KSUB', false},
-    {'THECODE', true}
+    {'THECODE', false},
+    {'40KAGAIN', true}
 }
