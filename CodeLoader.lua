@@ -17,5 +17,8 @@ return {
     {'KARASU', false},
     {'200KSUB', false},
     {'THECODE', false},
-    {'40KAGAIN', true}
+    {'40KAGAIN', true},
+    {'20KCHANNEL', true},
+    {'40KCHANNEL', true},
+    {'CHROLLO100K', true}
 }
