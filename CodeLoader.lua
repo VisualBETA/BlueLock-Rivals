@@ -22,5 +22,6 @@ return {
     {'40KCHANNEL', false},
     {'CHROLLO100K', false},
     {'DONLORENZO', true},
-    {'CHROLLO300K', true}
+    {'CHROLLO300K', false},
+    {'300KCHROLLO', true}
 }
